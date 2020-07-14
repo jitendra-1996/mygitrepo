@@ -1,3 +1,0 @@
-this is my third file in git.
-adding some changes in this file
-Again making some changes.

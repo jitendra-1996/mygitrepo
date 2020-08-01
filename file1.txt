@@ -1,2 +1,0 @@
-This is my testing file for app.
-Adding file1 for test
